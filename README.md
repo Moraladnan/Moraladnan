@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💼I'm currently working on Building Plan Engineering Consultant & Developers.<br>🏦 My current project is UP NEXT bank system. <br>🪂I like to fly.
+👨‍💼I'm currently working on Building Plan Engineering Consultant & Developers.<br>🏦 My current project is UP NEXT a banking system and TransFlow FMS and inventory. <br>🪂I like to fly.
 
 
 ## 🌐 Socials:
